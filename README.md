@@ -10,6 +10,6 @@ Javascript Dom Game
 
 ## Preview Pages
 
-Markup : [Example using Github](http://htmlpreview.github.io/?https://github.com/MiguelZablah/DOM-Pig-Game/blob/master/index.html)
+[Example using Github](http://htmlpreview.github.io/?https://github.com/MiguelZablah/DOM-Pig-Game/blob/master/index.html)
 
-Markup : [Example using Rawgit](https://rawgit.com/MiguelZablah/DOM-Pig-Game/master/index.html)
+[Example using Rawgit](https://rawgit.com/MiguelZablah/DOM-Pig-Game/master/index.html)
