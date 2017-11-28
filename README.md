@@ -14,6 +14,6 @@ Javascript Dom Game
 
 <a href="https://rawgit.com/MiguelZablah/DOM-Pig-Game/master/index.html" target="_blank">Example using Rawgit</a>
 
-[Example using Github](http://htmlpreview.github.io/?https://github.com/MiguelZablah/DOM-Pig-Game/blob/master/index.html){:target="_blank"}
+Markup : [Example using Github](http://htmlpreview.github.io/?https://github.com/MiguelZablah/DOM-Pig-Game/blob/master/index.html){:target="_blank"}
 
-[Example using Rawgit](https://rawgit.com/MiguelZablah/DOM-Pig-Game/master/index.html){:target="_blank"}
+Markup : [Example using Rawgit](https://rawgit.com/MiguelZablah/DOM-Pig-Game/master/index.html){:target="_blank"}
